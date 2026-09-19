@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk -F: 'NR>=200 && NR<=400')",
+      "Bash(awk -F: '$1>=10000 && $1<=13101')",
+      "Bash(mkdir -p /Users/ashwin/Documents/aws-notes/aws-solutions-architect-associate-saa-c03/study-notes/01-getting-started)",
+      "Bash(mkdir -p /Users/ashwin/Documents/aws-notes/aws-solutions-architect-associate-saa-c03/study-notes/02-iam)",
+      "Bash(mkdir -p /Users/ashwin/Documents/aws-notes/aws-solutions-architect-associate-saa-c03/study-notes/03-ec2)",
+      "Bash(mkdir -p /Users/ashwin/Documents/aws-notes/aws-solutions-architect-associate-saa-c03/study-notes/04-ebs)",
+      "Bash(mkdir -p /Users/ashwin/Documents/aws-notes/aws-solutions-architect-associate-saa-c03/study-notes/05-ec2-advanced)"
+    ]
+  }
+}
